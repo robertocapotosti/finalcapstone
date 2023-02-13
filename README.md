@@ -2,7 +2,7 @@
 <hr>
 
 ## About this project<br>
-This is an example about how to inplememnt a bookstore program in Python; it was a compulsory task of a Soft Engineering bookcamp organised by HyperionDev organisation
+This is an example about how to implement a bookstore program in Python; it was a compulsory task of a Soft Engineering bookcamp organised by HyperionDev organisation
 
 ## Run this project in Local Machine
 <hr>
