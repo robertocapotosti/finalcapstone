@@ -27,3 +27,6 @@ python -m pip install tabulate
 The program creates a database in the same location where the program is executed.<br>
 The main menu presents the options to Search, Add, Delete and Update a book.<br>
 The update and delete options make the user able to search for a book and then do the changes.
+
+This is a screenshot of a session, where the user is first searching for a book and then updating it<br>
+![action1](https://user-images.githubusercontent.com/122682180/219347461-56656894-69e3-47f2-b87a-69299529311d.png)
